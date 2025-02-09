@@ -17,7 +17,7 @@ To compile and run this project, ensure you have Rust installed. If you don’t 
 cargo run
 ```
 
-Alternatively, you can download the precompiled executable from the [Releases](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/releases) section on GitHub.
+Alternatively, you can download the precompiled executable from the [Releases](https://github.com/adeirjunior/guessing_game/releases) section on GitHub.
 
 ## How to Play
 
