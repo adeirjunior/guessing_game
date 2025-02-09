@@ -31,7 +31,7 @@ fn get_input() -> String {
 
 fn start_game() {
     println!("Guess the number!");
-    let secret_number: u8 = rand::thread_rng().gen_range(1..=100);
+    let secret_number: u8 = rand::rng().random_range(1..=100);
     let mut attempts: u8 = 5;
 
     while attempts > 0 {
